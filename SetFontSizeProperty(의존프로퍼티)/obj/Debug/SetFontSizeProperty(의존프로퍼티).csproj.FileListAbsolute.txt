@@ -1,0 +1,8 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\SetFontSizeProperty(의존프로퍼티)\bin\Debug\SetFontSizeProperty(의존프로퍼티).exe
+C:\Users\Gatsjy\source\repos\wpfstudy\SetFontSizeProperty(의존프로퍼티)\bin\Debug\SetFontSizeProperty(의존프로퍼티).pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\SetFontSizeProperty(의존프로퍼티)\obj\Debug\SetFontSizeProperty(의존프로퍼티).csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\SetFontSizeProperty(의존프로퍼티)\obj\Debug\SetFontSizeProperty_의존프로퍼티_.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\SetFontSizeProperty(의존프로퍼티)\obj\Debug\SetFontSizeProperty(의존프로퍼티).csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\SetFontSizeProperty(의존프로퍼티)\obj\Debug\SetFontSizeProperty(의존프로퍼티).csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\SetFontSizeProperty(의존프로퍼티)\obj\Debug\SetFontSizeProperty(의존프로퍼티).exe
+C:\Users\Gatsjy\source\repos\wpfstudy\SetFontSizeProperty(의존프로퍼티)\obj\Debug\SetFontSizeProperty(의존프로퍼티).pdb
