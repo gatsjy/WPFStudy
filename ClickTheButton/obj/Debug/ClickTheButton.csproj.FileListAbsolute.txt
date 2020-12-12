@@ -1,0 +1,8 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\ClickTheButton\bin\Debug\ClickTheButton.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ClickTheButton\bin\Debug\ClickTheButton.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ClickTheButton\obj\Debug\ClickTheButton.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ClickTheButton\obj\Debug\ClickTheButton.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\ClickTheButton\obj\Debug\ClickTheButton.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ClickTheButton\obj\Debug\ClickTheButton.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ClickTheButton\obj\Debug\ClickTheButton.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ClickTheButton\obj\Debug\ClickTheButton.pdb
