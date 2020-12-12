@@ -1,0 +1,7 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\bin\Debug\InheritTheApp.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\bin\Debug\InheritTheApp.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.pdb

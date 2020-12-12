@@ -1,0 +1,8 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\HandleAnEvent\obj\Debug\HandleAnEvent.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\HandleAnEvent\obj\Debug\HandleAnEvent.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\HandleAnEvent\obj\Debug\HandleAnEvent.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\HandleAnEvent\bin\Debug\HandleAnEvent.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\HandleAnEvent\bin\Debug\HandleAnEvent.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\HandleAnEvent\obj\Debug\HandleAnEvent.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\HandleAnEvent\obj\Debug\HandleAnEvent.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\HandleAnEvent\obj\Debug\HandleAnEvent.csprojAssemblyReference.cache

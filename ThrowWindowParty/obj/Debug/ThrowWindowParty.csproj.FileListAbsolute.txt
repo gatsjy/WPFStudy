@@ -1,0 +1,7 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\obj\Debug\ThrowWindowParty.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\obj\Debug\ThrowWindowParty.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\obj\Debug\ThrowWindowParty.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\bin\Debug\ThrowWindowParty.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\bin\Debug\ThrowWindowParty.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\obj\Debug\ThrowWindowParty.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\obj\Debug\ThrowWindowParty.pdb

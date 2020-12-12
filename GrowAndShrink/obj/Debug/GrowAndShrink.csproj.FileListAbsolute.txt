@@ -1,0 +1,7 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\bin\Debug\GrowAndShrink.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\bin\Debug\GrowAndShrink.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.pdb
