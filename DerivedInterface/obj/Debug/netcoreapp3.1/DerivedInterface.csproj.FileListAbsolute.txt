@@ -1,0 +1,13 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.deps.json
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.runtimeconfig.json
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.runtimeconfig.dev.json
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\bin\Debug\netcoreapp3.1\DerivedInterface.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.AssemblyInfoInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.AssemblyInfo.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\DerivedInterface\obj\Debug\netcoreapp3.1\DerivedInterface.genruntimeconfig.cache
