@@ -1,0 +1,12 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\bin\Debug\netcoreapp3.1\EventTest.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\bin\Debug\netcoreapp3.1\EventTest.deps.json
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\bin\Debug\netcoreapp3.1\EventTest.runtimeconfig.json
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\bin\Debug\netcoreapp3.1\EventTest.runtimeconfig.dev.json
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\bin\Debug\netcoreapp3.1\EventTest.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\bin\Debug\netcoreapp3.1\EventTest.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\obj\Debug\netcoreapp3.1\EventTest.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\obj\Debug\netcoreapp3.1\EventTest.AssemblyInfoInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\obj\Debug\netcoreapp3.1\EventTest.AssemblyInfo.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\obj\Debug\netcoreapp3.1\EventTest.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\obj\Debug\netcoreapp3.1\EventTest.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\EventTest\obj\Debug\netcoreapp3.1\EventTest.genruntimeconfig.cache
