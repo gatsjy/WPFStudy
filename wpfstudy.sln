@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickTheButton", "ClickTheB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetFontSizeProperty(의존프로퍼티)", "SetFontSizeProperty(의존프로퍼티)\SetFontSizeProperty(의존프로퍼티).csproj", "{AF3D0967-FA66-4FEF-89A6-115D4963516F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceButton(의존프로퍼티)", "SpaceButton(의존프로퍼티)\SpaceButton(의존프로퍼티).csproj", "{2EA843FF-F47D-48B9-9C45-6A20E6E2367D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{AF3D0967-FA66-4FEF-89A6-115D4963516F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF3D0967-FA66-4FEF-89A6-115D4963516F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF3D0967-FA66-4FEF-89A6-115D4963516F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA843FF-F47D-48B9-9C45-6A20E6E2367D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA843FF-F47D-48B9-9C45-6A20E6E2367D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA843FF-F47D-48B9-9C45-6A20E6E2367D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA843FF-F47D-48B9-9C45-6A20E6E2367D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
