@@ -1,0 +1,27 @@
+﻿<!--================================
+  LoadXamlResource.xml written by Gatsjy
+====================================-->
+<StackPanel
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+
+  <Button Name="MyButton"
+          HorizontalAlignment="Center"
+          Margin="24">
+    Hello, Xaml!
+  </Button>
+  
+  <Ellipse Width="200"
+           Height="100"
+           Margin="24"
+           Stroke="Red"
+           StrokeThickness="10" />
+
+  <ListBox Width="100"
+           Heigth="100"
+           Margin="24">
+    <ListBoxItem>Sunday</ListBoxItem>
+    <ListBoxItem>Monday</ListBoxItem>
+    <ListBoxItem>Tuesday</ListBoxItem>
+  </ListBox>
+  
+</StackPanel>

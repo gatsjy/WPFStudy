@@ -1,0 +1,9 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\XamlStackPanel\bin\Debug\XamlStackPanel.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\XamlStackPanel\bin\Debug\XamlStackPanel.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\XamlStackPanel\obj\Debug\XamlStackPanel.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\XamlStackPanel\obj\Debug\XamlStackPanel.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\XamlStackPanel\obj\Debug\XamlStackPanel.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\XamlStackPanel\obj\Debug\XamlStackPanel.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\XamlStackPanel\obj\Debug\XamlStackPanel.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\XamlStackPanel\obj\Debug\XamlStackPanel.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\XamlStackPanel\obj\Debug\XamlStackPanel.g.resources
