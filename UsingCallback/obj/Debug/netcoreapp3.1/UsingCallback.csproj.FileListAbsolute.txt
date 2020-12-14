@@ -1,0 +1,13 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.deps.json
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.runtimeconfig.json
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.runtimeconfig.dev.json
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.AssemblyInfoInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.AssemblyInfo.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.genruntimeconfig.cache

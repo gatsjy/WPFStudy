@@ -10,3 +10,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\MultiInterfaceInheritance\obj\Debug\netcor
 C:\Users\Gatsjy\source\repos\wpfstudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.dll
 C:\Users\Gatsjy\source\repos\wpfstudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.pdb
 C:\Users\Gatsjy\source\repos\wpfstudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.genruntimeconfig.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\MultiInterfaceInheritance\obj\Debug\netcoreapp3.1\MultiInterfaceInheritance.csprojAssemblyReference.cache

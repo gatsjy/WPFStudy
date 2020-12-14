@@ -10,3 +10,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\DelegateChains\obj\Debug\netcoreapp3.1\Del
 C:\Users\Gatsjy\source\repos\wpfstudy\DelegateChains\obj\Debug\netcoreapp3.1\DelegateChains.dll
 C:\Users\Gatsjy\source\repos\wpfstudy\DelegateChains\obj\Debug\netcoreapp3.1\DelegateChains.pdb
 C:\Users\Gatsjy\source\repos\wpfstudy\DelegateChains\obj\Debug\netcoreapp3.1\DelegateChains.genruntimeconfig.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DelegateChains\obj\Debug\netcoreapp3.1\DelegateChains.csprojAssemblyReference.cache

@@ -10,3 +10,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\AbstractClass\AbstractClass\obj\Debug\netc
 C:\Users\Gatsjy\source\repos\wpfstudy\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.dll
 C:\Users\Gatsjy\source\repos\wpfstudy\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.pdb
 C:\Users\Gatsjy\source\repos\wpfstudy\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.genruntimeconfig.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csprojAssemblyReference.cache

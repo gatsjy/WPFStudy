@@ -1,0 +1,8 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ExamineRoutedEvents\bin\Debug\ExamineRoutedEvents.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ExamineRoutedEvents\bin\Debug\ExamineRoutedEvents.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.pdb
