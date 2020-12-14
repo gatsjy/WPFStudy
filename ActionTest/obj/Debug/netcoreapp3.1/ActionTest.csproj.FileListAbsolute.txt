@@ -1,0 +1,13 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.deps.json
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.runtimeconfig.json
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.runtimeconfig.dev.json
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.AssemblyInfoInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.AssemblyInfo.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.genruntimeconfig.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.csprojAssemblyReference.cache
