@@ -1,0 +1,8 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\ListColorNames\bin\Debug\ListColorNames.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ListColorNames\bin\Debug\ListColorNames.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ListColorNames\obj\Debug\ListColorNames.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ListColorNames\obj\Debug\ListColorNames.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\ListColorNames\obj\Debug\ListColorNames.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ListColorNames\obj\Debug\ListColorNames.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ListColorNames\obj\Debug\ListColorNames.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ListColorNames\obj\Debug\ListColorNames.pdb

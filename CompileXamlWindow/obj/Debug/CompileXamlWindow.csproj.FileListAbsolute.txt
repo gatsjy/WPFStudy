@@ -1,0 +1,12 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\bin\Debug\CompileXamlWindow.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\bin\Debug\CompileXamlWindow.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\CompileXamlWindow\obj\Debug\CompileXamlWindow.pdb

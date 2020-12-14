@@ -17,7 +17,7 @@
            StrokeThickness="10" />
 
   <ListBox Width="100"
-           Heigth="100"
+           Height="100"
            Margin="24">
     <ListBoxItem>Sunday</ListBoxItem>
     <ListBoxItem>Monday</ListBoxItem>
