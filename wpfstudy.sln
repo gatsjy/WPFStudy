@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceLookupDemo", "Resou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradientBrushResourceDemo", "GradientBrushResourceDemo\GradientBrushResourceDemo.csproj", "{92C7F546-BBEE-4832-8AA0-CE45A98E706C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindLabelToScrollBar", "BindLabelToScrollBar\BindLabelToScrollBar.csproj", "{588CD603-3510-4110-89BE-BA6B265BFDBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -433,6 +435,18 @@ Global
 		{92C7F546-BBEE-4832-8AA0-CE45A98E706C}.Release|x64.Build.0 = Release|Any CPU
 		{92C7F546-BBEE-4832-8AA0-CE45A98E706C}.Release|x86.ActiveCfg = Release|Any CPU
 		{92C7F546-BBEE-4832-8AA0-CE45A98E706C}.Release|x86.Build.0 = Release|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Debug|x64.Build.0 = Debug|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Debug|x86.Build.0 = Debug|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Release|x64.ActiveCfg = Release|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Release|x64.Build.0 = Release|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Release|x86.ActiveCfg = Release|Any CPU
+		{588CD603-3510-4110-89BE-BA6B265BFDBB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

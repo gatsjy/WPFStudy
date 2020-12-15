@@ -6,21 +6,6 @@
         mc:Ignorable="d"
         Title="GradientBrushResourceDemo" Height="300" Width="300">
     <StackPanel>
-        <TextBlock Margin="{StaticResource thicknessMargin}"
-                   Foreground="{StaticResource brushGradient}">
-            Gradient text
-        </TextBlock>
-        <TextBlock Margin="{StaticResource thicknessMargin}"
-                   Foreground="{StaticResource brushGradient}">
-            Of black, green, and gold
-        </TextBlock>
-        <TextBlock Margin="{StaticResource thicknessMargin}"
-                   Foreground="{StaticResource brushGradient}">
-            Makes an app pretty
-        </TextBlock>
-        <TextBlock Margin="{StaticResource thicknessMargin}"
-                   Foreground="{StaticResource brushGradient}">
-            Makes an app bold
-        </TextBlock>
+        
     </StackPanel>
 </Window>
