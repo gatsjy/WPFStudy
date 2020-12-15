@@ -1,0 +1,14 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\bin\Debug\ResourceLookupDemo.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\bin\Debug\ResourceLookupDemo.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\bin\Debug\ResourceLookupDemo.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\ResourceLookupDemo_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\ResourceLookupDemo_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\ResourceLookupDemo.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\ResourceLookupDemo.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\ResourceLookupDemo.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\ResourceLookupDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\ResourceLookupDemo.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ResourceLookupDemo\obj\Debug\ResourceLookupDemo.pdb

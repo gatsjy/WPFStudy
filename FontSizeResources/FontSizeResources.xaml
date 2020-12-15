@@ -1,0 +1,35 @@
+﻿<Window x:Class="FontSizeResources.FontSizeResources"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:s="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="FontSizeResources" Height="450" Width="800">
+    <StackPanel>
+        <StackPanel.Resources>
+            <s:Double x:Key="fontsizeLarge">
+                18.7
+            </s:Double>
+            <s:Double x:Key="fontsizeSmall">
+                14.7
+            </s:Double>
+        </StackPanel.Resources>
+
+        <Button HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Margin="24">
+            <Button.FontSize>
+                <StaticResource ResourceKey="fontsizeLarge"/>
+            </Button.FontSize>
+            Button with large FontSize
+        </Button>
+
+        <Button HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Margin="24"
+                FontSize="{StaticResource fontsizeSmall}">
+            Button with small Fontsize
+        </Button>
+    </StackPanel>
+</Window>

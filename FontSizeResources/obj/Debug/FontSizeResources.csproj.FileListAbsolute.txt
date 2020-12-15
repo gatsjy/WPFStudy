@@ -1,0 +1,8 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\FontSizeResources\obj\Debug\FontSizeResources.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FontSizeResources\obj\Debug\FontSizeResources.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\FontSizeResources\obj\Debug\FontSizeResources.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\FontSizeResources\obj\Debug\FontSizeResources_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FontSizeResources\obj\Debug\FontSizeResources.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\FontSizeResources\obj\Debug\FontSizeResources.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\FontSizeResources\obj\Debug\FontSizeResources.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FontSizeResources\obj\Debug\FontSizeResources.csproj.CoreCompileInputs.cache
