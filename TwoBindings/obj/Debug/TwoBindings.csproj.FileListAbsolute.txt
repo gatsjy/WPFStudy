@@ -1,0 +1,15 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\bin\Debug\TwoBindings.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\bin\Debug\TwoBindings.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\bin\Debug\TwoBindings.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\TwoBindings.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\TwoBindings_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\TwoBindings_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\TwoBindings.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\TwoBindings.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\TwoBindings.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\TwoBindings.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\TwoBindings.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\TwoBindings\obj\Debug\TwoBindings.pdb
