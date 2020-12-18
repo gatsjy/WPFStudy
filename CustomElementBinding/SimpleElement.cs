@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Media;
 
 namespace CustomElementBinding
 {
@@ -33,6 +35,15 @@ namespace CustomElementBinding
             return new Size(200, 50);
         }
 
-        // Number 프로퍼티를 보여주는 
+        // Number 프로퍼티를 보여주는 OnRender
+        protected override void OnRender(DrawingContext dc)
+        {
+            dc.DrawText(
+                new FormattedText(Number.ToString(),
+                CultureInfo.CurrentCulture, FlowDirection.LeftToRight,
+                new Typeface("Times New Roman"), 12,
+                SystemColors.WindowTextBrush),
+                new Point(0, 0));
+        }
     }
 }

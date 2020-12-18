@@ -1,0 +1,16 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\ColorScrollPage_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\ColorScrollPage_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\ColorScrollPage.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\ColorScrollPage.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\ColorScroll.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\bin\Debug\ColorScrollPage.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\bin\Debug\ColorScrollPage.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\bin\Debug\ColorScrollPage.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\ColorScrollPage.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\ColorScrollPage.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\ColorScroll.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ColorScrollPage\obj\Debug\ColorScroll.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\bin\Debug\LongBindingPath.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\bin\Debug\LongBindingPath.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\bin\Debug\LongBindingPath.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\LongBindingPath.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\LongBindingPath_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\LongBindingPath_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\LongBindingPath.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\LongBindingPath.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\LongBindingPath.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\LongBindingPath.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\LongBindingPath.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\LongBindingPath\obj\Debug\LongBindingPath.pdb

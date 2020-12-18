@@ -1,0 +1,16 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\bin\Debug\CustomElementBinding.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\bin\Debug\CustomElementBinding.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\bin\Debug\CustomElementBinding.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\CustomElementBinding.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\CustomElementBinding_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\CustomElementBinding_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\CustomElementBinding.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\CustomElementBinding.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\CustomElementBinding.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\CustomElementBinding.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\CustomElementBinding.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\CustomElementBinding\obj\Debug\CustomElementBinding.pdb

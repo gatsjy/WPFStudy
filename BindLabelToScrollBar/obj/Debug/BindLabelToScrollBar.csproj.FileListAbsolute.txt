@@ -12,3 +12,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\BindLabelToScrollBar\obj\Debug\BindLabelTo
 C:\Users\Gatsjy\source\repos\wpfstudy\BindLabelToScrollBar\obj\Debug\BindLabelToScrollBar.csproj.CoreCompileInputs.cache
 C:\Users\Gatsjy\source\repos\wpfstudy\BindLabelToScrollBar\obj\Debug\BindLabelToScrollBar.exe
 C:\Users\Gatsjy\source\repos\wpfstudy\BindLabelToScrollBar\obj\Debug\BindLabelToScrollBar.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\BindLabelToScrollBar\obj\Debug\BindLabelToScrollBar.csprojAssemblyReference.cache
