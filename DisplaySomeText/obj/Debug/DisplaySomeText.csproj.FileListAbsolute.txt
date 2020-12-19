@@ -1,0 +1,8 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\DisplaySomeText\bin\Debug\DisplaySomeText.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\DisplaySomeText\bin\Debug\DisplaySomeText.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\DisplaySomeText\obj\Debug\DisplaySomeText.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DisplaySomeText\obj\Debug\DisplaySomeText.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\DisplaySomeText\obj\Debug\DisplaySomeText.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DisplaySomeText\obj\Debug\DisplaySomeText.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DisplaySomeText\obj\Debug\DisplaySomeText.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\DisplaySomeText\obj\Debug\DisplaySomeText.pdb

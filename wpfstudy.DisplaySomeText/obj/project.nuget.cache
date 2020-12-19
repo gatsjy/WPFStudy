@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFKzrrLFgWalrjMlna0/7YFzwiN1CfLDecJueuCwV/arLtrrtK2PfpR+7MTIYyA+5DeE4IGVIPyqMRXoow//Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gatsjy\\source\\repos\\wpfstudy\\wpfstudy.DisplaySomeText\\wpfstudy.DisplaySomeText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gatsjy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gatsjy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

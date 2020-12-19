@@ -1,0 +1,7 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\ToggleBoldAndItalic\bin\Debug\ToggleBoldAndItalic.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ToggleBoldAndItalic\bin\Debug\ToggleBoldAndItalic.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ToggleBoldAndItalic\obj\Debug\ToggleBoldAndItalic.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\ToggleBoldAndItalic\obj\Debug\ToggleBoldAndItalic.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ToggleBoldAndItalic\obj\Debug\ToggleBoldAndItalic.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\ToggleBoldAndItalic\obj\Debug\ToggleBoldAndItalic.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\ToggleBoldAndItalic\obj\Debug\ToggleBoldAndItalic.pdb
