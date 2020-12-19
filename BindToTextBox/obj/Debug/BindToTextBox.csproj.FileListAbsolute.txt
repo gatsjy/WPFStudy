@@ -1,0 +1,14 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\bin\Debug\BindToTextBox.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\bin\Debug\BindToTextBox.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\bin\Debug\BindToTextBox.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.pdb

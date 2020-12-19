@@ -1,0 +1,15 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\bin\Debug\FormattedDigitalClock.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\bin\Debug\FormattedDigitalClock.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\bin\Debug\FormattedDigitalClock.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\FormattedDigitalClock_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\FormattedDigitalClock_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\FormattedDigitalClock\obj\Debug\FormattedDigitalClock.pdb
