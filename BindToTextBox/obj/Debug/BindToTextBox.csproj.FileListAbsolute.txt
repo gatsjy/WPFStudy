@@ -12,3 +12,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.cspr
 C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.csproj.CoreCompileInputs.cache
 C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.exe
 C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\BindToTextBox\obj\Debug\BindToTextBox.csprojAssemblyReference.cache

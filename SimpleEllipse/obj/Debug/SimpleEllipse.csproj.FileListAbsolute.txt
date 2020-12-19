@@ -5,3 +5,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\SimpleEllipse\obj\Debug\SimpleEllipse.cspr
 C:\Users\Gatsjy\source\repos\wpfstudy\SimpleEllipse\obj\Debug\SimpleEllipse.csproj.CoreCompileInputs.cache
 C:\Users\Gatsjy\source\repos\wpfstudy\SimpleEllipse\obj\Debug\SimpleEllipse.exe
 C:\Users\Gatsjy\source\repos\wpfstudy\SimpleEllipse\obj\Debug\SimpleEllipse.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\SimpleEllipse\obj\Debug\SimpleEllipse.csprojAssemblyReference.cache

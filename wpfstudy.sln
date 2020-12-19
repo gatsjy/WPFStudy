@@ -87,6 +87,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalClock", "DigitalCloc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattedDigitalClock", "FormattedDigitalClock\FormattedDigitalClock.csproj", "{29720891-3DA4-48A2-A27C-47B471FA60F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StyleWithMultipleButtons", "StyleWithMultipleButtons\StyleWithMultipleButtons.csproj", "{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonWithTemplate", "ButtonWithTemplate\ButtonWithTemplate.csproj", "{94958DB2-9247-43C9-95C0-EAA2E67A76BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -601,6 +605,30 @@ Global
 		{29720891-3DA4-48A2-A27C-47B471FA60F4}.Release|x64.Build.0 = Release|Any CPU
 		{29720891-3DA4-48A2-A27C-47B471FA60F4}.Release|x86.ActiveCfg = Release|Any CPU
 		{29720891-3DA4-48A2-A27C-47B471FA60F4}.Release|x86.Build.0 = Release|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Debug|x64.Build.0 = Debug|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Debug|x86.Build.0 = Debug|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Release|x64.ActiveCfg = Release|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Release|x64.Build.0 = Release|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Release|x86.ActiveCfg = Release|Any CPU
+		{1BDA7591-FD11-487E-AE5C-CDC88ACB0EC9}.Release|x86.Build.0 = Release|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Debug|x64.Build.0 = Debug|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Debug|x86.Build.0 = Debug|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Release|x64.ActiveCfg = Release|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Release|x64.Build.0 = Release|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Release|x86.ActiveCfg = Release|Any CPU
+		{94958DB2-9247-43C9-95C0-EAA2E67A76BA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

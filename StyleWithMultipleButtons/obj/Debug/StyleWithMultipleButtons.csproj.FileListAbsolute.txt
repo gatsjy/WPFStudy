@@ -1,0 +1,15 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\bin\Debug\StyleWithMultipleButtons.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\bin\Debug\StyleWithMultipleButtons.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\bin\Debug\StyleWithMultipleButtons.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\StyleWithMultipleButtons.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\StyleWithMultipleButtons_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\StyleWithMultipleButtons_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\StyleWithMultipleButtons.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\StyleWithMultipleButtons.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\StyleWithMultipleButtons.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\StyleWithMultipleButtons.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\StyleWithMultipleButtons.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\StyleWithMultipleButtons\obj\Debug\StyleWithMultipleButtons.pdb
