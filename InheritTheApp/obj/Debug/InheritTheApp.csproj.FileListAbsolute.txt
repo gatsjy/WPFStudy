@@ -5,3 +5,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.cspr
 C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.csproj.CoreCompileInputs.cache
 C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.exe
 C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\InheritTheApp\obj\Debug\InheritTheApp.csprojAssemblyReference.cache

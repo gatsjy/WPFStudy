@@ -5,3 +5,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.cspr
 C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.csproj.CoreCompileInputs.cache
 C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.exe
 C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\GrowAndShrink\obj\Debug\GrowAndShrink.csprojAssemblyReference.cache

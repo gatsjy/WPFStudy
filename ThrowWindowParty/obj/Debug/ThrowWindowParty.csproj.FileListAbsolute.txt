@@ -5,3 +5,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\bin\Debug\ThrowWindowPart
 C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\bin\Debug\ThrowWindowParty.pdb
 C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\obj\Debug\ThrowWindowParty.exe
 C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\obj\Debug\ThrowWindowParty.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\ThrowWindowParty\obj\Debug\ThrowWindowParty.csprojAssemblyReference.cache
