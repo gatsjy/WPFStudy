@@ -14,3 +14,5 @@ C:\Users\Gatsjy\source\repos\wpfstudy\DigitalClock\obj\Debug\DigitalClock.csproj
 C:\Users\Gatsjy\source\repos\wpfstudy\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
 C:\Users\Gatsjy\source\repos\wpfstudy\DigitalClock\obj\Debug\DigitalClock.exe
 C:\Users\Gatsjy\source\repos\wpfstudy\DigitalClock\obj\Debug\DigitalClock.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\DigitalClock\obj\Debug\FormattedDigitalClockWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\DigitalClock\obj\Debug\FormattedDigitalClockWindow.baml
