@@ -14,7 +14,7 @@ namespace ThrowWindowParty
         public static void Main()
         {
             ThrowWindowParty app = new ThrowWindowParty();
-            //app.ShutdownMode = ShutdownMode.OnMainWindowClose;
+            app.ShutdownMode = ShutdownMode.OnMainWindowClose; // 메인 창이 닫힐 때 
             app.Run();
         }
 
@@ -30,7 +30,7 @@ namespace ThrowWindowParty
                 Window win = new Window();
                 win.Title = "Extra Window No. " + (i + 1);
                 //win.ShowInTaskbar = false;
-                //MainWindow = win;
+                MainWindow = win;
                 // Owner 프로퍼티에 다른 Window객체를 대입할 수 있다.
                 // 아래처럼 코딩하면 메인창이 두 개의 창을 소유하게 된다.
                 win.Owner = winMain;

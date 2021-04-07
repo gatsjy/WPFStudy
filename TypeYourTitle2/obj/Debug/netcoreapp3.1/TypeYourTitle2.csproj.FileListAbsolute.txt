@@ -1,0 +1,13 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\bin\Debug\netcoreapp3.1\TypeYourTitle2.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\bin\Debug\netcoreapp3.1\TypeYourTitle2.deps.json
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\bin\Debug\netcoreapp3.1\TypeYourTitle2.runtimeconfig.json
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\bin\Debug\netcoreapp3.1\TypeYourTitle2.runtimeconfig.dev.json
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\bin\Debug\netcoreapp3.1\TypeYourTitle2.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\bin\Debug\netcoreapp3.1\TypeYourTitle2.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\obj\Debug\netcoreapp3.1\TypeYourTitle2.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\obj\Debug\netcoreapp3.1\TypeYourTitle2.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\obj\Debug\netcoreapp3.1\TypeYourTitle2.AssemblyInfoInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\obj\Debug\netcoreapp3.1\TypeYourTitle2.AssemblyInfo.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\obj\Debug\netcoreapp3.1\TypeYourTitle2.dll
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\obj\Debug\netcoreapp3.1\TypeYourTitle2.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\TypeYourTitle2\obj\Debug\netcoreapp3.1\TypeYourTitle2.genruntimeconfig.cache

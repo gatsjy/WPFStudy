@@ -21,7 +21,7 @@ namespace InheritTheApp
             base.OnStartup(args);
 
             Window win = new Window();
-            win.Title = "Inherit thr App";
+            win.Title = "Inherit the App";
             win.Show();
         }
 
