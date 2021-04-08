@@ -1,0 +1,7 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\obj\Debug\FlipThroughTheBrushes.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\obj\Debug\FlipThroughTheBrushes.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\obj\Debug\FlipThroughTheBrushes.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\bin\Debug\FlipThroughTheBrushes.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\bin\Debug\FlipThroughTheBrushes.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\obj\Debug\FlipThroughTheBrushes.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\obj\Debug\FlipThroughTheBrushes.pdb

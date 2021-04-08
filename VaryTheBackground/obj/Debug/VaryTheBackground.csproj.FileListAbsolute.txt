@@ -1,0 +1,8 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\VaryTheBackground\bin\Debug\VaryTheBackground.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\VaryTheBackground\bin\Debug\VaryTheBackground.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\VaryTheBackground\obj\Debug\VaryTheBackground.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\VaryTheBackground\obj\Debug\VaryTheBackground.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\VaryTheBackground\obj\Debug\VaryTheBackground.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\VaryTheBackground\obj\Debug\VaryTheBackground.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\VaryTheBackground\obj\Debug\VaryTheBackground.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\VaryTheBackground\obj\Debug\VaryTheBackground.pdb
