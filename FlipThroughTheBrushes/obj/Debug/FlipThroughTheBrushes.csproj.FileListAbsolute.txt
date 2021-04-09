@@ -5,3 +5,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\bin\Debug\FlipThroug
 C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\bin\Debug\FlipThroughTheBrushes.pdb
 C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\obj\Debug\FlipThroughTheBrushes.exe
 C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\obj\Debug\FlipThroughTheBrushes.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\FlipThroughTheBrushes\obj\Debug\FlipThroughTheBrushes.csprojAssemblyReference.cache
