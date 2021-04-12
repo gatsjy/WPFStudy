@@ -21,8 +21,6 @@ namespace DisplaySomeText
         {
             Title = "Display Some Text";
             Content = "Content can be simple text!";
-            FontFamily = new FontFamily("Comic Sans MS");
-            FontSize = 48;
         }
     }
 }
