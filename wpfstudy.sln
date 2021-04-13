@@ -95,11 +95,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentTemplateDemo", "Cont
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoServer", "EchoServer\EchoServer.csproj", "{E26E8F31-BDEE-44D2-B43B-EB5A83632F59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeYourTitle2", "TypeYourTitle2\TypeYourTitle2.csproj", "{3CF67591-475C-4AE8-BAC1-67C3805C8A1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeYourTitle2", "TypeYourTitle2\TypeYourTitle2.csproj", "{3CF67591-475C-4AE8-BAC1-67C3805C8A1C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaryTheBackground", "VaryTheBackground\VaryTheBackground.csproj", "{7DE7E2A7-8DF7-4B8F-A9FB-1540C6224C05}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipThroughTheBrushes", "FlipThroughTheBrushes\FlipThroughTheBrushes.csproj", "{8E0526FD-5CA2-4C7C-A66C-62D916CAAB01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderTehGraphic", "RenderTehGraphic\RenderTehGraphic.csproj", "{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatTheButton", "FormatTheButton\FormatTheButton.csproj", "{85155958-D16B-4D85-B3FB-ED4B7F27EC00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -699,6 +703,30 @@ Global
 		{8E0526FD-5CA2-4C7C-A66C-62D916CAAB01}.Release|x64.Build.0 = Release|Any CPU
 		{8E0526FD-5CA2-4C7C-A66C-62D916CAAB01}.Release|x86.ActiveCfg = Release|Any CPU
 		{8E0526FD-5CA2-4C7C-A66C-62D916CAAB01}.Release|x86.Build.0 = Release|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Debug|x64.Build.0 = Debug|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Debug|x86.Build.0 = Debug|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Release|x64.ActiveCfg = Release|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Release|x64.Build.0 = Release|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Release|x86.ActiveCfg = Release|Any CPU
+		{9A71D726-9B76-43C1-8B6F-5D98D4B2F239}.Release|x86.Build.0 = Release|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Debug|x64.Build.0 = Debug|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Debug|x86.Build.0 = Debug|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Release|x64.ActiveCfg = Release|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Release|x64.Build.0 = Release|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Release|x86.ActiveCfg = Release|Any CPU
+		{85155958-D16B-4D85-B3FB-ED4B7F27EC00}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

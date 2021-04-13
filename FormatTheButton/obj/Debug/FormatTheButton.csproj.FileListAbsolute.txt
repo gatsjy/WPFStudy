@@ -1,0 +1,8 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\FormatTheButton\bin\Debug\FormatTheButton.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\FormatTheButton\bin\Debug\FormatTheButton.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\FormatTheButton\obj\Debug\FormatTheButton.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FormatTheButton\obj\Debug\FormatTheButton.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\FormatTheButton\obj\Debug\FormatTheButton.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FormatTheButton\obj\Debug\FormatTheButton.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FormatTheButton\obj\Debug\FormatTheButton.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\FormatTheButton\obj\Debug\FormatTheButton.pdb
