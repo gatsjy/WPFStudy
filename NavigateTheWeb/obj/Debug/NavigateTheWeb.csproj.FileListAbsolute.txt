@@ -1,0 +1,4 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\NavigateTheWeb\obj\Debug\NavigateTheWeb.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\NavigateTheWeb\obj\Debug\NavigateTheWeb.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\NavigateTheWeb\obj\Debug\NavigateTheWeb.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\NavigateTheWeb\obj\Debug\NavigateTheWeb.csproj.CoreCompileInputs.cache
