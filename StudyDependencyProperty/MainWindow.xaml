@@ -1,0 +1,26 @@
+﻿<Window x:Class="StudyDependencyProperty.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudyDependencyProperty"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <ComboBox Width="150" Height="40" Grid.Column="0" Margin="10" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem>사과</ComboBoxItem>
+            <ComboBoxItem>수박</ComboBoxItem>
+            <ComboBoxItem>귤</ComboBoxItem>
+            <ComboBoxItem>오렌지</ComboBoxItem>
+            <ComboBoxItem>딸기</ComboBoxItem>
+        </ComboBox>
+
+        <TextBox Name="uiTb_Fruit" Width="150" Height="40" Grid.Column="1" Text="과일이름"/>
+
+    </Grid>
+</Window>
