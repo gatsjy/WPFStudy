@@ -47,10 +47,10 @@ namespace StudyDependencyProperty
         /// 의존 프로퍼티에 대한 정의는 특정 의존 속성 값이 변경되면 자동으로 어떤 행동을 처리할 수 있게 매핑해 주는 것,,,,
         /// </summary>
         public static readonly DependencyProperty MyProperty = DependencyProperty.Register(
-            "MyFruit",
-            typeof(string),
-            typeof(MainWindow),
-            new FrameworkPropertyMetadata(new PropertyChangedCallback(OnMyPropertyChanged)));
+                                                                                                "MyFruit",
+                                                                                                typeof(string),
+                                                                                                typeof(MainWindow),
+                                                                                                new FrameworkPropertyMetadata(new PropertyChangedCallback(OnMyPropertyChanged)));
 
         /// <summary>
         /// 특정 값이 변경되면 실행되는 이벤트 핸들러
