@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvvmExample", "mvvmExample\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INotifyPropertyChangedEx", "INotifyPropertyChangedEx\INotifyPropertyChangedEx.csproj", "{F3A3DA74-2035-4B7F-A466-5BA9A6D4AD1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceDictionaryEx", "ResourceDictionaryEx\ResourceDictionaryEx.csproj", "{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -797,6 +799,18 @@ Global
 		{F3A3DA74-2035-4B7F-A466-5BA9A6D4AD1A}.Release|x64.Build.0 = Release|Any CPU
 		{F3A3DA74-2035-4B7F-A466-5BA9A6D4AD1A}.Release|x86.ActiveCfg = Release|Any CPU
 		{F3A3DA74-2035-4B7F-A466-5BA9A6D4AD1A}.Release|x86.Build.0 = Release|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Debug|x64.Build.0 = Debug|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Debug|x86.Build.0 = Debug|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Release|x64.ActiveCfg = Release|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Release|x64.Build.0 = Release|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Release|x86.ActiveCfg = Release|Any CPU
+		{F64135C8-C1C1-4D4A-81D5-7C057C2DD5F5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
