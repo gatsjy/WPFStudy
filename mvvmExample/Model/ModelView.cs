@@ -13,6 +13,7 @@ namespace mvvmExample
     {
         public RelayCommand AddCommand { get; set; }
 
+        // 항목이 추가 또는 제거되거나 전체 목록이 새로 고쳐진 경우 알림을 제공하는 동적 데이터 컬렉션을 나타냅니다.
         private ObservableCollection<Model> ROOT_;
 
         public ObservableCollection<Model> ROOT
