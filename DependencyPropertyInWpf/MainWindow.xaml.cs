@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace DependencyPropertyInWpf
 {
@@ -23,16 +24,34 @@ namespace DependencyPropertyInWpf
         public MainWindow()
         {
             InitializeComponent();
+
+            DispatcherTimer timer = new DispatcherTimer(TimeSpan.FromSeconds(0.01), DispatcherPriority.Normal,
+                                                        delegate
+                                                        {
+                                                            int newValue = 0;
+
+                                                            if(Counter == int.MaxValue)
+                                                            {
+                                                                newValue = 0;
+                                                            }
+                                                            else
+                                                            {
+                                                                newValue = Counter + 1;
+                                                            }
+
+                                                            SetValue(CounterProperty, newValue);
+                                                        }, Dispatcher);
         }
 
-        public int MyProperty // CRL property
+        public int Counter
         {
-            get { return (int)GetValue(customdepencencyproperty); }
-            set { SetValue(customdepencencyproperty, value); }
+            get { return (int)GetValue(CounterProperty); }
+            set { SetValue(CounterProperty, value); }
         }
 
-        // Using a DependencyProperty as the backing store for MyProperty.  This enables animation, styling, binding, etc...
-        public static readonly DependencyProperty customdepencencyproperty =
-            DependencyProperty.Register("MyProperty", typeof(int), typeof(MainWindow), new PropertyMetadata(0));
+        // Using a DependencyProperty as the backing store for Counter.  This enables animation, styling, binding, etc...
+        public static readonly DependencyProperty CounterProperty =
+            DependencyProperty.Register("Counter", typeof(int), typeof(MainWindow), new PropertyMetadata(0));
+
     }
 }
