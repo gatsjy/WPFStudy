@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceDictionaryEx", "Res
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyPropertyInWpf", "DependencyPropertyInWpf\DependencyPropertyInWpf.csproj", "{A4F324A4-2F72-4C96-8F59-F8B8AFF4FD23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachedPropertiedDemo", "AttachedPropertiedDemo\AttachedPropertiedDemo.csproj", "{75D786A1-7730-41A0-81A9-21A36604C2FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -825,6 +827,18 @@ Global
 		{A4F324A4-2F72-4C96-8F59-F8B8AFF4FD23}.Release|x64.Build.0 = Release|Any CPU
 		{A4F324A4-2F72-4C96-8F59-F8B8AFF4FD23}.Release|x86.ActiveCfg = Release|Any CPU
 		{A4F324A4-2F72-4C96-8F59-F8B8AFF4FD23}.Release|x86.Build.0 = Release|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Debug|x64.Build.0 = Debug|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Debug|x86.Build.0 = Debug|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Release|x64.ActiveCfg = Release|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Release|x64.Build.0 = Release|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Release|x86.ActiveCfg = Release|Any CPU
+		{75D786A1-7730-41A0-81A9-21A36604C2FB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

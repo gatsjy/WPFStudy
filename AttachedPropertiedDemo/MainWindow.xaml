@@ -1,0 +1,21 @@
+﻿<Window x:Class="AttachedPropertiedDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AttachedPropertiedDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Height="150" Width="250" Grid.Row="1" Click="UIElement_Click" local:MainWindow.NewName="SuperButton"/>
+        <ListBox PreviewMouseLeftButtonDown="UIElement_Click" Grid.Row="0" local:MainWindow.NewName="Batman">
+            <ListBoxItem Content="1st" />
+            <ListBoxItem Content="2nd" />
+            <ListBoxItem Content="3rd" />
+        </ListBox>
+    </Grid>
+</Window>
