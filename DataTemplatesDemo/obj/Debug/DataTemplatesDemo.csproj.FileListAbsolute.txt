@@ -1,0 +1,15 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\bin\Debug\DataTemplatesDemo.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\bin\Debug\DataTemplatesDemo.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\bin\Debug\DataTemplatesDemo.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\DataTemplatesDemo.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\DataTemplatesDemo_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\DataTemplatesDemo_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\DataTemplatesDemo.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\DataTemplatesDemo.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\DataTemplatesDemo.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\DataTemplatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\DataTemplatesDemo.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\DataTemplatesDemo\obj\Debug\DataTemplatesDemo.pdb
