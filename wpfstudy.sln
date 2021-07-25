@@ -125,6 +125,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTemplatesDemo", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTemplatesDemo", "DataTemplatesDemo\DataTemplatesDemo.csproj", "{66170E99-30D9-45D3-9A0F-BB71B1AEFAB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingINotifyPropertyChanged", "UnderstandingINotifyPropertyChanged\UnderstandingINotifyPropertyChanged.csproj", "{87928343-90C6-49C8-89DC-DEF6E5580105}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -867,6 +869,18 @@ Global
 		{66170E99-30D9-45D3-9A0F-BB71B1AEFAB3}.Release|x64.Build.0 = Release|Any CPU
 		{66170E99-30D9-45D3-9A0F-BB71B1AEFAB3}.Release|x86.ActiveCfg = Release|Any CPU
 		{66170E99-30D9-45D3-9A0F-BB71B1AEFAB3}.Release|x86.Build.0 = Release|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Debug|x64.Build.0 = Debug|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Debug|x86.Build.0 = Debug|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Release|x64.ActiveCfg = Release|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Release|x64.Build.0 = Release|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Release|x86.ActiveCfg = Release|Any CPU
+		{87928343-90C6-49C8-89DC-DEF6E5580105}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
