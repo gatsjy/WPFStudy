@@ -1,0 +1,13 @@
+﻿<Window x:Class="DispatcherEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DispatcherEx"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button" Content="Set Text" HorizontalAlignment="Left" Margin="218,184,0,0" VerticalAlignment="Top" Width="124" Click="button_Click"></Button>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="60" Margin="179,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top"></TextBox>
+    </Grid>
+</Window>
