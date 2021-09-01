@@ -129,6 +129,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingINotifyPropert
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispatcherEx", "DispatcherEx\DispatcherEx.csproj", "{803B288E-63F0-403F-8C53-5B4F97636CAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapImageDemo", "BitmapImage\BitmapImageDemo.csproj", "{97DAA896-DD76-4E7A-B71C-EC9705598F81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -895,6 +897,18 @@ Global
 		{803B288E-63F0-403F-8C53-5B4F97636CAB}.Release|x64.Build.0 = Release|Any CPU
 		{803B288E-63F0-403F-8C53-5B4F97636CAB}.Release|x86.ActiveCfg = Release|Any CPU
 		{803B288E-63F0-403F-8C53-5B4F97636CAB}.Release|x86.Build.0 = Release|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Debug|x64.Build.0 = Debug|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Debug|x86.Build.0 = Debug|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Release|x64.ActiveCfg = Release|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Release|x64.Build.0 = Release|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Release|x86.ActiveCfg = Release|Any CPU
+		{97DAA896-DD76-4E7A-B71C-EC9705598F81}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
