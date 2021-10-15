@@ -1,0 +1,15 @@
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\bin\Debug\FrameworkFactoryEx.exe.config
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\bin\Debug\FrameworkFactoryEx.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\bin\Debug\FrameworkFactoryEx.pdb
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\FrameworkFactoryEx.csprojAssemblyReference.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\MainWindow.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\App.g.cs
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\FrameworkFactoryEx_MarkupCompile.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\FrameworkFactoryEx_MarkupCompile.lref
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\MainWindow.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\FrameworkFactoryEx.g.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\FrameworkFactoryEx.Properties.Resources.resources
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\FrameworkFactoryEx.csproj.GenerateResource.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\FrameworkFactoryEx.csproj.CoreCompileInputs.cache
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\FrameworkFactoryEx.exe
+C:\Users\Gatsjy\source\repos\wpfstudy\FrameworkFactoryEx\obj\Debug\FrameworkFactoryEx.pdb
