@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkFactoryEx", "Frame
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionatyExample", "dictionatyExample\dictionatyExample.csproj", "{02B68595-666A-469E-9B2C-2886FF0F458D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyPropertyEx1", "DependencyPropertyEx1\DependencyPropertyEx1.csproj", "{15DEF573-0F02-4B9D-BF35-4432EB5398F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -937,6 +939,18 @@ Global
 		{02B68595-666A-469E-9B2C-2886FF0F458D}.Release|x64.Build.0 = Release|Any CPU
 		{02B68595-666A-469E-9B2C-2886FF0F458D}.Release|x86.ActiveCfg = Release|Any CPU
 		{02B68595-666A-469E-9B2C-2886FF0F458D}.Release|x86.Build.0 = Release|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Debug|x64.Build.0 = Debug|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Debug|x86.Build.0 = Debug|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Release|x64.ActiveCfg = Release|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Release|x64.Build.0 = Release|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Release|x86.ActiveCfg = Release|Any CPU
+		{15DEF573-0F02-4B9D-BF35-4432EB5398F7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
