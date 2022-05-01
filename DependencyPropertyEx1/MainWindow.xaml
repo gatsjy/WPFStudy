@@ -13,7 +13,7 @@
             <MenuItem Header="BLUE"/>
         </ContextMenu>
     </Window.ContextMenu>
-    <Grid>
+    <Grid >
         <TextBox x:Name="textBox1"
                  Width="100"
                  Height="20"/>
