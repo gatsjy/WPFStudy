@@ -16,3 +16,4 @@ C:\Users\Gatsjy\source\repos\wpfstudy\ModernDesign\obj\Debug\ModernDesign.csproj
 C:\Users\Gatsjy\source\repos\wpfstudy\ModernDesign\obj\Debug\ModernDesign.exe
 C:\Users\Gatsjy\source\repos\wpfstudy\ModernDesign\obj\Debug\ModernDesign.pdb
 C:\Users\Gatsjy\source\repos\wpfstudy\ModernDesign\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\Gatsjy\source\repos\wpfstudy\ModernDesign\obj\Debug\MVVM\View\HomeView.g.cs

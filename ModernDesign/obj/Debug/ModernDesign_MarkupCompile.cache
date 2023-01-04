@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Gatsjy\source\repos\wpfstudy\ModernDesign\App.xaml
-3-1744303267
+4268228695
 
-7-38609011
+9-710383382
 13-1505183044
-MainWindow.xaml;Theme\MenuButtonTheme.xaml;Theme\TextboxTheme.xaml;
+MainWindow.xaml;MVVM\View\HomeView.xaml;Theme\MenuButtonTheme.xaml;Theme\TextboxTheme.xaml;
 
-False
+True
 

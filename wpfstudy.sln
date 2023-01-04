@@ -141,6 +141,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateWpf", "CreateWpf\Crea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernDesign", "ModernDesign\ModernDesign.csproj", "{C4D71176-07EA-45AE-80E2-0B2858A82537}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circular Progress Bar App", "Circular Progress Bar App\Circular Progress Bar App.csproj", "{D50F98AF-66A0-4D93-92D5-6F649A4F7912}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -979,6 +981,18 @@ Global
 		{C4D71176-07EA-45AE-80E2-0B2858A82537}.Release|x64.Build.0 = Release|Any CPU
 		{C4D71176-07EA-45AE-80E2-0B2858A82537}.Release|x86.ActiveCfg = Release|Any CPU
 		{C4D71176-07EA-45AE-80E2-0B2858A82537}.Release|x86.Build.0 = Release|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Debug|x64.Build.0 = Debug|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Debug|x86.Build.0 = Debug|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Release|x64.ActiveCfg = Release|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Release|x64.Build.0 = Release|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Release|x86.ActiveCfg = Release|Any CPU
+		{D50F98AF-66A0-4D93-92D5-6F649A4F7912}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

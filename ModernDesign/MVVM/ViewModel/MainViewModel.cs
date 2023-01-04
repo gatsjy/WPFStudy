@@ -9,6 +9,6 @@ namespace ModernDesign.MVVM.ViewModel
 {
     class MainViewModel : ObservableObject 
     {
-        public MainViewModel()
+        public MainViewModel();
     }
 }
